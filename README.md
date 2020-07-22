@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Gabriel
-#### I'm the average geek
 I'm a Ecommerce Solution Architect based in Belgium. I enjoy staying up-to-date with the latest web and Ecommerce development best practices, such as domain-driven design (DDD), event sourcing, continuous integration & deployment (CI/CD), automated testing, and more. 
 
 I'm also a proficient developer, with knowledge and hands-on experience in most layers of the web stack: from DevOps, all the way to the front-end, and numerous contributions to open-source projects in the Zend Framework & Magento ecosystems.
